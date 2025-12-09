@@ -2,21 +2,14 @@ The Source:
 
 https://www.kaggle.com/datasets/arjuntejaswi/plant-village
 
--The Data Dictionary (What does it mean?)
-This is usually the most important part. You need to explain every column (variable) in your table.
+- The Data Dictionary 
 
-Column Name: The exact name in the file (e.g., temp_c).
+Name: Plant Village
 
-Description: What is it? (e.g., "Daily average temperature").
+Description: This dataset includes healty/infected potato and tomato plants
 
-Units: Is it in Dollars? Meters? Celsius?
+Units: images
 
-Data Type: Is it a number (integer/float), text (string), or a date?
+Data Type: strings
 
--Processing Notes: 
 
-Cleaning: Did you remove empty rows? Did you replace missing values with the average?
-
-Filtering: Did you exclude certain data? (e.g., "I removed all rows where age was under 18").
-
--Feature Engineering: ...
