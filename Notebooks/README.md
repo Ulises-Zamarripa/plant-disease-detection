@@ -1,4 +1,4 @@
- |    ├── 01_data_exploration.ipynb      ← Explore dataset
+ |    ├── Data_exploration.ipynb      ← Explore dataset
  
  │   ├── Potato & Tomato Disease Identification Ulises.ipynb        ← Train/fine-tune
  
